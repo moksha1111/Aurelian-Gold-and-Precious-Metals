@@ -43,7 +43,7 @@ export default function Contact() {
 
             {/* Office image */}
             <div className="relative overflow-hidden" style={{ height: '190px' }}>
-              <img src={img('1560343090-f0409e92791a', 600, 75)} alt="Office" className="w-full h-full object-cover" loading="lazy" />
+              <img src={img('30201205', 600, 75)} alt="Office" className="w-full h-full object-cover" loading="lazy" />
               <div className="absolute inset-0 bg-dark/50" />
               <div className="absolute bottom-4 left-4">
                 <p className="font-serif text-ash font-light text-sm">London · Zurich · Dubai</p>

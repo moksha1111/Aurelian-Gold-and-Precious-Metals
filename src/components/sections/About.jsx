@@ -19,7 +19,7 @@ export default function About() {
           <div ref={ref} className="relative"
                style={{ opacity: inView?1:0, transform: inView?'none':'translateX(-28px)', transition:'opacity .8s,transform .8s' }}>
             <div className="relative overflow-hidden" style={{ height: '540px' }}>
-              <img src={img('1547996160-81dfa63595aa', 800, 80)} alt="Gold vault" className="w-full h-full object-cover" loading="lazy" />
+              <img src={img('8442328', 800, 80)} alt="Gold vault" className="w-full h-full object-cover" loading="lazy" />
               <div className="absolute inset-0 bg-gradient-to-t from-dark/50 to-transparent" />
             </div>
             {/* Stats overlay */}

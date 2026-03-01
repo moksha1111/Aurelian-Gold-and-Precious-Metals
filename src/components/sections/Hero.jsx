@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-center overflow-hidden">
       {/* BG */}
       <div className="absolute inset-0">
-        <img src={img('1526045612212-70caf35c14df', 1800, 80)} alt="Gold bars" className="w-full h-full object-cover" />
+        <img src={img('8442332', 1800, 80)} alt="Gold bars" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-gradient-to-r from-dark via-dark/85 to-dark/30" />
         <div className="absolute inset-0 bg-gradient-to-t from-dark/80 via-transparent to-dark/40" />
       </div>
